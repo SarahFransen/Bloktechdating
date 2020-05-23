@@ -24,5 +24,5 @@ function plants(req, res) {
 }
 
 app.listen(port, function() {
-    console.log('its truly alive');
+    console.log('want to check the commit stuff for insurance I guess');
 })
